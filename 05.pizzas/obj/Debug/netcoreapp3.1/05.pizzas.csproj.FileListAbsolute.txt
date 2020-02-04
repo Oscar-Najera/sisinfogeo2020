@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.exe
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.dll
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\bin\Debug\netcoreapp3.1\05.pizzas.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.dll
+C:\Users\oscar\Documents\Sistemas de informacion\05.pizzas\obj\Debug\netcoreapp3.1\05.pizzas.pdb

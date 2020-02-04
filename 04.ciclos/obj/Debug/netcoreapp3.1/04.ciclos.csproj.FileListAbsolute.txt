@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.exe
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.dll
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.dll
+C:\Users\oscar\Documents\Sistemas de informacion\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.pdb
