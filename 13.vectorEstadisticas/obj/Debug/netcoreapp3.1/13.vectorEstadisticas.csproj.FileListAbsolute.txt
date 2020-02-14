@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\bin\Debug\netcoreapp3.1\13.vectorEstadisticas.exe
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\bin\Debug\netcoreapp3.1\13.vectorEstadisticas.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\bin\Debug\netcoreapp3.1\13.vectorEstadisticas.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\bin\Debug\netcoreapp3.1\13.vectorEstadisticas.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\bin\Debug\netcoreapp3.1\13.vectorEstadisticas.dll
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\bin\Debug\netcoreapp3.1\13.vectorEstadisticas.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\obj\Debug\netcoreapp3.1\13.vectorEstadisticas.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\obj\Debug\netcoreapp3.1\13.vectorEstadisticas.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\obj\Debug\netcoreapp3.1\13.vectorEstadisticas.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\obj\Debug\netcoreapp3.1\13.vectorEstadisticas.dll
+C:\Users\oscar\Documents\Sistemas de informacion\13.vectorEstadisticas\obj\Debug\netcoreapp3.1\13.vectorEstadisticas.pdb
