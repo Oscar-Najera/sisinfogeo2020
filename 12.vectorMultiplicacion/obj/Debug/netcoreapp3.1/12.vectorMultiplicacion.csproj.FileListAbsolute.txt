@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\bin\Debug\netcoreapp3.1\12.vectorMultiplicacion.exe
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\bin\Debug\netcoreapp3.1\12.vectorMultiplicacion.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\bin\Debug\netcoreapp3.1\12.vectorMultiplicacion.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\bin\Debug\netcoreapp3.1\12.vectorMultiplicacion.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\bin\Debug\netcoreapp3.1\12.vectorMultiplicacion.dll
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\bin\Debug\netcoreapp3.1\12.vectorMultiplicacion.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\obj\Debug\netcoreapp3.1\12.vectorMultiplicacion.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\obj\Debug\netcoreapp3.1\12.vectorMultiplicacion.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\obj\Debug\netcoreapp3.1\12.vectorMultiplicacion.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\obj\Debug\netcoreapp3.1\12.vectorMultiplicacion.dll
+C:\Users\oscar\Documents\Sistemas de informacion\12.vectorMultiplicacion\obj\Debug\netcoreapp3.1\12.vectorMultiplicacion.pdb

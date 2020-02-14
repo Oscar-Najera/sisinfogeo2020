@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\bin\Debug\netcoreapp3.1\11.vectorInverso.exe
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\bin\Debug\netcoreapp3.1\11.vectorInverso.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\bin\Debug\netcoreapp3.1\11.vectorInverso.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\bin\Debug\netcoreapp3.1\11.vectorInverso.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\bin\Debug\netcoreapp3.1\11.vectorInverso.dll
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\bin\Debug\netcoreapp3.1\11.vectorInverso.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\obj\Debug\netcoreapp3.1\11.vectorInverso.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\obj\Debug\netcoreapp3.1\11.vectorInverso.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\obj\Debug\netcoreapp3.1\11.vectorInverso.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\obj\Debug\netcoreapp3.1\11.vectorInverso.dll
+C:\Users\oscar\Documents\Sistemas de informacion\11.vectorInverso\obj\Debug\netcoreapp3.1\11.vectorInverso.pdb
