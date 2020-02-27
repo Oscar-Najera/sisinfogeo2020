@@ -10,7 +10,7 @@ namespace ExamenParcial_1
             redPatito=Inicializa();
             imprimirReporte(redPatito);
         }
-
+        //Metodo que nos permite inicializar una red.
         static Red Inicializa(){
             Red redPatito = new Red("Red Patito, S.A. de C.V.","Mr Pato Macdonald","Av. Princeton 123, Orlando Florida");
             Nodo servidor1= new Nodo("192.168.0.10","servidor",5,10,"linux");
@@ -38,7 +38,7 @@ namespace ExamenParcial_1
             
             return redPatito;
         }
-
+        // Metodo que nos permite imprimir el reporte de una red dada.
         static void imprimirReporte(Red redImprimir){
             Console.WriteLine($">> Datos generales de la red: \n Empresa: {redImprimir.Empresa}. \n Propietario: {redImprimir.Propietario}. \n Domicilio: {redImprimir.Domicilio}.");
             Console.WriteLine($"\tTotal nodos en la red: {redImprimir.obtenerTotalNodos()}.");
@@ -54,28 +54,19 @@ namespace ExamenParcial_1
             redImprimir.obtenerNumeroMenorSalto();
             Console.WriteLine($"\t Mayor número de saltos: {redImprimir.MayorSalto}");
             Console.WriteLine($"\t Mayor número de saltos: {redImprimir.MenorSalto}");
-                
-            Console.WriteLine($">> Vulnerabilidades por nodo: ");
+            Console.WriteLine($"\n>> Vulnerabilidades por nodo: ");
             foreach (Nodo nodo in redImprimir.ListaNodos)
             {
                 Console.WriteLine($"Ip: {nodo.DireccionIp}, Tipo: {nodo.Tipo}.");  
-                Console.WriteLine($"Vulnerabilidades: "); 
-
+                Console.WriteLine($"\nVulnerabilidades: "); 
                 foreach(Vulnerabilidad vln in nodo.ListaVulnerabilidades){
                     Console.WriteLine($"Clave: {vln.Clave}, Vendedor: {vln.Vendedor}, Descripcion: {vln.Descripcion}, Tipo: {vln.Tipo}, Fecha: {vln.Fecha}, Antiguedad: {vln.Antiguedad}.");
                 }
                 if(nodo.ListaVulnerabilidades.Count==0){
-                        Console.WriteLine("No tiene vulnerabilidades.");
+                        Console.WriteLine("No tiene vulnerabilidades ... ");
                 }
                   
             }
-            
-           
-            
         }
-
-
-
-
     }
 }
