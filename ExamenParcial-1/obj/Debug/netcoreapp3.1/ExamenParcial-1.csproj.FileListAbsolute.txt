@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\obj\Debug\netcoreapp3.1\ExamenParcial-1.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\obj\Debug\netcoreapp3.1\ExamenParcial-1.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\obj\Debug\netcoreapp3.1\ExamenParcial-1.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\bin\Debug\netcoreapp3.1\ExamenParcial-1.exe
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\bin\Debug\netcoreapp3.1\ExamenParcial-1.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\bin\Debug\netcoreapp3.1\ExamenParcial-1.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\bin\Debug\netcoreapp3.1\ExamenParcial-1.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\bin\Debug\netcoreapp3.1\ExamenParcial-1.dll
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\bin\Debug\netcoreapp3.1\ExamenParcial-1.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\obj\Debug\netcoreapp3.1\ExamenParcial-1.dll
+C:\Users\oscar\Documents\Sistemas de informacion\ExamenParcial-1\obj\Debug\netcoreapp3.1\ExamenParcial-1.pdb
