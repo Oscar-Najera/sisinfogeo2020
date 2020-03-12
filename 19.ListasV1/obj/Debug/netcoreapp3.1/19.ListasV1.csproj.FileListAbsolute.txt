@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\obj\Debug\netcoreapp3.1\19.ListasV1.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\obj\Debug\netcoreapp3.1\19.ListasV1.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\obj\Debug\netcoreapp3.1\19.ListasV1.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\bin\Debug\netcoreapp3.1\19.ListasV1.exe
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\bin\Debug\netcoreapp3.1\19.ListasV1.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\bin\Debug\netcoreapp3.1\19.ListasV1.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\bin\Debug\netcoreapp3.1\19.ListasV1.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\bin\Debug\netcoreapp3.1\19.ListasV1.dll
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\bin\Debug\netcoreapp3.1\19.ListasV1.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\obj\Debug\netcoreapp3.1\19.ListasV1.dll
+C:\Users\oscar\Documents\Sistemas de informacion\19.ListasV1\obj\Debug\netcoreapp3.1\19.ListasV1.pdb
