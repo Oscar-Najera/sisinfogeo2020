@@ -12,7 +12,7 @@ namespace _22.Linq2
                 "manzana", "kiwi", "pitayas", "mango", "cereza"
             };
 
-            Console.WriteLine("-------------------Primera Consulta-------------------")
+            Console.WriteLine("-------------------Primera Consulta-------------------");
             var qry=
                 from fruta in frutas
                 where fruta.StartsWith("m")
