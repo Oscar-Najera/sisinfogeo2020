@@ -1,0 +1,13 @@
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\bin\Debug\netcoreapp3.1\24.ImportarCSV.exe
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\bin\Debug\netcoreapp3.1\24.ImportarCSV.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\bin\Debug\netcoreapp3.1\24.ImportarCSV.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\bin\Debug\netcoreapp3.1\24.ImportarCSV.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\bin\Debug\netcoreapp3.1\24.ImportarCSV.dll
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\bin\Debug\netcoreapp3.1\24.ImportarCSV.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\obj\Debug\netcoreapp3.1\24.ImportarCSV.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\obj\Debug\netcoreapp3.1\24.ImportarCSV.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\obj\Debug\netcoreapp3.1\24.ImportarCSV.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\obj\Debug\netcoreapp3.1\24.ImportarCSV.csproj.CopyComplete
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\obj\Debug\netcoreapp3.1\24.ImportarCSV.dll
+C:\Users\oscar\Documents\Sistemas de informacion\24.ImportarCSV\obj\Debug\netcoreapp3.1\24.ImportarCSV.pdb
