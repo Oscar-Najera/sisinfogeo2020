@@ -1,0 +1,13 @@
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\bin\Debug\netcoreapp3.1\SegundoExamenParcial.exe
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\bin\Debug\netcoreapp3.1\SegundoExamenParcial.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\bin\Debug\netcoreapp3.1\SegundoExamenParcial.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\bin\Debug\netcoreapp3.1\SegundoExamenParcial.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\bin\Debug\netcoreapp3.1\SegundoExamenParcial.dll
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\bin\Debug\netcoreapp3.1\SegundoExamenParcial.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\obj\Debug\netcoreapp3.1\SegundoExamenParcial.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\obj\Debug\netcoreapp3.1\SegundoExamenParcial.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\obj\Debug\netcoreapp3.1\SegundoExamenParcial.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\obj\Debug\netcoreapp3.1\SegundoExamenParcial.csproj.CopyComplete
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\obj\Debug\netcoreapp3.1\SegundoExamenParcial.dll
+C:\Users\oscar\Documents\Sistemas de informacion\SegundoExamenParcial\obj\Debug\netcoreapp3.1\SegundoExamenParcial.pdb
