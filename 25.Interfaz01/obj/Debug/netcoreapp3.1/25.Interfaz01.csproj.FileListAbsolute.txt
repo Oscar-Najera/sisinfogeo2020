@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\bin\Debug\netcoreapp3.1\25.Interfaz01.exe
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\bin\Debug\netcoreapp3.1\25.Interfaz01.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\bin\Debug\netcoreapp3.1\25.Interfaz01.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\bin\Debug\netcoreapp3.1\25.Interfaz01.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\bin\Debug\netcoreapp3.1\25.Interfaz01.dll
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\bin\Debug\netcoreapp3.1\25.Interfaz01.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\obj\Debug\netcoreapp3.1\25.Interfaz01.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\obj\Debug\netcoreapp3.1\25.Interfaz01.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\obj\Debug\netcoreapp3.1\25.Interfaz01.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\obj\Debug\netcoreapp3.1\25.Interfaz01.dll
+C:\Users\oscar\Documents\Sistemas de informacion\25.Interfaz01\obj\Debug\netcoreapp3.1\25.Interfaz01.pdb
