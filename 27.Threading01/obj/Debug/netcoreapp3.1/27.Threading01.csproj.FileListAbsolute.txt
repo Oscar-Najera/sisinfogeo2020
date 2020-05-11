@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\bin\Debug\netcoreapp3.1\27.Threading01.exe
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\bin\Debug\netcoreapp3.1\27.Threading01.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\bin\Debug\netcoreapp3.1\27.Threading01.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\bin\Debug\netcoreapp3.1\27.Threading01.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\bin\Debug\netcoreapp3.1\27.Threading01.dll
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\bin\Debug\netcoreapp3.1\27.Threading01.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\obj\Debug\netcoreapp3.1\27.Threading01.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\obj\Debug\netcoreapp3.1\27.Threading01.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\obj\Debug\netcoreapp3.1\27.Threading01.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\obj\Debug\netcoreapp3.1\27.Threading01.dll
+C:\Users\oscar\Documents\Sistemas de informacion\27.Threading01\obj\Debug\netcoreapp3.1\27.Threading01.pdb
