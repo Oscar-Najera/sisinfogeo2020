@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\obj\Debug\netcoreapp3.1\35.Delegados05.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\obj\Debug\netcoreapp3.1\35.Delegados05.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\obj\Debug\netcoreapp3.1\35.Delegados05.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\bin\Debug\netcoreapp3.1\35.Delegados05.exe
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\bin\Debug\netcoreapp3.1\35.Delegados05.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\bin\Debug\netcoreapp3.1\35.Delegados05.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\bin\Debug\netcoreapp3.1\35.Delegados05.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\bin\Debug\netcoreapp3.1\35.Delegados05.dll
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\bin\Debug\netcoreapp3.1\35.Delegados05.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\obj\Debug\netcoreapp3.1\35.Delegados05.dll
+C:\Users\oscar\Documents\Sistemas de informacion\35.Delegados05\obj\Debug\netcoreapp3.1\35.Delegados05.pdb
