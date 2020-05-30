@@ -1,0 +1,13 @@
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\bin\Debug\netcoreapp3.1\38.FacebookApi.exe
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\bin\Debug\netcoreapp3.1\38.FacebookApi.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\bin\Debug\netcoreapp3.1\38.FacebookApi.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\bin\Debug\netcoreapp3.1\38.FacebookApi.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\bin\Debug\netcoreapp3.1\38.FacebookApi.dll
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\bin\Debug\netcoreapp3.1\38.FacebookApi.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\obj\Debug\netcoreapp3.1\38.FacebookApi.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\obj\Debug\netcoreapp3.1\38.FacebookApi.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\obj\Debug\netcoreapp3.1\38.FacebookApi.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\obj\Debug\netcoreapp3.1\38.FacebookApi.csproj.CopyComplete
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\obj\Debug\netcoreapp3.1\38.FacebookApi.dll
+C:\Users\oscar\Documents\Sistemas de informacion\38.FacebookApi\obj\Debug\netcoreapp3.1\38.FacebookApi.pdb
