@@ -1,0 +1,11 @@
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\bin\Debug\netcoreapp3.1\TercerExamenParcial.exe
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\bin\Debug\netcoreapp3.1\TercerExamenParcial.deps.json
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\bin\Debug\netcoreapp3.1\TercerExamenParcial.runtimeconfig.json
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\bin\Debug\netcoreapp3.1\TercerExamenParcial.runtimeconfig.dev.json
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\bin\Debug\netcoreapp3.1\TercerExamenParcial.dll
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\bin\Debug\netcoreapp3.1\TercerExamenParcial.pdb
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\obj\Debug\netcoreapp3.1\TercerExamenParcial.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\obj\Debug\netcoreapp3.1\TercerExamenParcial.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\obj\Debug\netcoreapp3.1\TercerExamenParcial.AssemblyInfo.cs
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\obj\Debug\netcoreapp3.1\TercerExamenParcial.dll
+C:\Users\oscar\Documents\Sistemas de informacion\TercerExamenParcial\obj\Debug\netcoreapp3.1\TercerExamenParcial.pdb
